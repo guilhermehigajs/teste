@@ -7,5 +7,6 @@ public class Program {
 		Scanner ler = new Scanner(System.in);
 
 		System.out.println("Bom dia ");
+		System.out.println("Boa tarde");
 	}
 }
